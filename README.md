@@ -1,4 +1,4 @@
-#E-Commerce revenue prediction
+# E-Commerce revenue prediction
 
 The data here is an Ecommerce Customers csv file. It has Customer info, suchas Email, Address, and their color Avatar. Then it also has numerical value columns:
 
