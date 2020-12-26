@@ -15,7 +15,7 @@ So what are we looking for here? Our basic purpose behind this exercise would be
 
 **Let us look at the correlation between the numerical values to get an idea of important parameters.**
 
-![](https://github.com/parakhpushkar/Data/blob/main/images/ecmm%20corr.png)
+![](images/ecmm%20corr.png)
 
 **Based off this plot it looks like 'Length of Membership' is a clear winner followed by 'Time on App'.<br> But this is where it gets tricky!**<br>
 We will re-visit this later in our conclusion. 
