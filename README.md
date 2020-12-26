@@ -13,7 +13,7 @@ So what are we looking for here? Our basic purpose behind this exercise would be
 **2. How will the factors identified affect the revenue?**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Let us look at the correlation between the numerical values to get an idea of important parameters.
+**Let us look at the correlation between the numerical values to get an idea of important parameters.**
 
 ![](https://github.com/parakhpushkar/Data/blob/main/images/ecmm%20corr.png)
 
