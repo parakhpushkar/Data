@@ -22,7 +22,7 @@ We will re-visit this later in our conclusion.
 This answers our first question to an extent. We will use Machine Learning to answer our second question.
 
 We will look into the coefficients we obtained through our Linear Regression Model to answer our second question.
-![](images/ecomm%20coeff.PNG)
+![](images/ecomm%20coeff.PNG)<br>
 Interpreting the coefficients:
 
 - Holding all other features fixed, a 1 unit increase in **Avg. Session Length** is associated with an **increase of 25.98 total dollars spent**.
@@ -30,5 +30,5 @@ Interpreting the coefficients:
 - Holding all other features fixed, a 1 unit increase in **Time on Website** is associated with an **increase of 0.19 total dollars spent**.
 - Holding all other features fixed, a 1 unit increase in **Length of Membership** is associated with an **increase of 61.27 total dollars spent**.
 
-**Conclusion**
+**Conclusion**<br>
 There are two ways to think about this: Develop the Website to catch up to the performance of the mobile app, or develop the app more since that is what is working better. This sort of answer really depends on the other factors going on at the company so there is still a lot more exploring that can be done before coming to a conclusion!<br> But on the surface of it, we have answered our questions.
